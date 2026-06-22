@@ -75,6 +75,16 @@ a:hover {
     opacity: 0.7;
 }
 
+/* Lists */
+ol {
+    margin-left: 2.5rem;
+    padding-left: 1rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
 /* Header and Navigation */
 .header {
     background-color: #ffffff;
